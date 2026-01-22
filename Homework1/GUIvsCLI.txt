@@ -1,0 +1,7 @@
+Both GUI and CLI are ways to interact with your computer. However, both of them function in different ways. GUI, which stands for Graphical User Interface, is visual based.
+
+Examples of GUI includes folders, buttons, and cursors. CLI, which stands for Command Line Interface, is text based. Examples of CLI includes changing file names and adding
+
+files. GUI is more user friendly than CLI. Even my mom (who is not tech savvy at all) can mostly manage navigating a computer using GUI (sorry, mom). CLI is a lot more precise
+
+and faster to use once you've gotten the hang of it. 
