@@ -1,0 +1,59 @@
+<html>
+
+<head>
+
+    <title>Contact</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script>
+
+        function getData() {
+
+            var firstName = document.getElementById("fName").value;
+            var lastName = document.getElementById("lName").value;
+
+
+            if (fName.value == "" || lName.value == "") {
+                window.alert("Something isn't filled out");
+
+                if (fName.value == "") {
+                    fName.style.borderColor = "red";
+                    fName.focus();
+                }
+
+                if (lName.value == "") {
+                    lName.style.borderColor = "red";
+                    lName.focus();
+
+                }
+                return;
+
+            }
+
+
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+    <div id="myDIV">
+
+        <span id="specificColor">Contact Page</span>
+        <p></p>
+        <span class="blueColor">First Name <input type="text" id="fName"><br>
+            Last Name <input type="text" id="lName"><br></span>
+
+        <br><br />
+
+        <button type="button" id="submit" class="btn btn-primary" onclick="getData()">Submit</button>
+
+        <br />
+
+    </div>
+
+</body>
+
+</html>
