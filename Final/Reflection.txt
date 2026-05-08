@@ -1,0 +1,18 @@
+	For my final I made two games. The first game I made has a cat and you have to avoid the red moving
+object. I started out by making the shapes for the different objects in the game. I quickly remembered to add
+the code to make the coordinates pop up with the mouse. That really came in clutch for both projects. Doing the
+shapes without that is kind of a nightmare. Lots of guessing. Never again. After setting up all of my shapes, I 
+needed to get the different objects to move. I was struggling with getting the different shapes that made up the 
+cat to move as a unit. Because of that, Grace helped me by showing how an array for that would work. After learning 
+that, I applied it to all of the shapes, then BAM it was working. However, the triangles were a nightmare to work 
+with, so I switched them out for ellipses. That helped make the process a lot easier. I will forever hate triangles. 
+I made sure to put all of the different parts of the game into functions to keep the draw function short and sweet. 
+I think my favorite part of this game was making the cursed game over screen. I also enjoyed the arrays once I got 
+the hang of it. For the second game I made a star with flower obstacles on the screen with an exit point. I came up 
+with the idea for this game first, but I was struggling with getting the images to show up so I abandoned it for a 
+bit. Then, shoutout to Grace, I learned that you need a live server for that. Once I installed that extension, I typed 
+in the code to see the coordinates, then started positioning where I wanted the images to go. The hardest part of 
+this project was getting the you lose/won screens to activate at the right positions. It took a lot of fine tuning.
+I also linked the two games together through an href on my html pages.
+
+Thank you again for such a fun semester! I hope you have a great summer :)
